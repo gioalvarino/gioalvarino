@@ -1,7 +1,7 @@
 ## 👋🏻 Olá, me chamo Giovanna!
 
 - 🎲 Meus interesses são Data Science e Business intelligence
-- 💻 Atualmente estou estudando R e Python para análise de dados
+- 💻 Atualmente estou estudando R e Python para manipulação e análise de dados
 - 📧 Contate-me no e-mail: giovannaalvarino1@gmail.com
 
 <!---

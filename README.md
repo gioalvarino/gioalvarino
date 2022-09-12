@@ -4,8 +4,12 @@
 - 💻 Atualmente estou estudando R e Python para manipulação e análise de dados
 - 📧 Contate-me no e-mail: giovannaalvarino1@gmail.com
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giovanna-alvarino/) 
 
+### Contatos
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giovanna-alvarino/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](giovannaalvarino1@gmail.com)
+
+--------------------------------------------------------------------------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gioalvarino&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gioalvarino&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

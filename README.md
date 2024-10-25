@@ -11,7 +11,7 @@
 
 --------------------------------------------------------------------------------------------
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gioalvarino&show_icons=true&theme=radical)](https://github.com/gioalvarino)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gioalvarino&langs_count=8&theme=radical)](https://github.com/giovannaalvarino)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gioalvarino&show_icons=true&theme=radical)](https://github.com/gioalvarino)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gioalvarino&langs_count=8&theme=radical)](https://github.com/gioalvarino)
 
 
 
